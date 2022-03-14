@@ -1,7 +1,7 @@
 const Kitchen = (props) => {
   return ( 
     <div>
-      {props.appliance}
+      Kitchen
     </div>
    );
 }
